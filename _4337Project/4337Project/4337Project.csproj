@@ -63,6 +63,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="_4337_Bulsaf.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="_4337_d0h.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -76,6 +80,9 @@
     </Compile>
     <Compile Include="4337_SharifullnAnvar.xaml.cs">
       <DependentUpon>4337_SharifullnAnvar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="_4337_Bulsaf.xaml.cs">
+      <DependentUpon>_4337_Bulsaf.xaml</DependentUpon>
     </Compile>
     <Compile Include="_4337_d0h.xaml.cs">
       <DependentUpon>_4337_d0h.xaml</DependentUpon>

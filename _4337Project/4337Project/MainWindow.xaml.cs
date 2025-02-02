@@ -46,5 +46,13 @@ namespace _4337Project
             // Show the window
             secondWindow.Show();
         }
+
+        private void Button_Click_4(object sender, RoutedEventArgs e)
+        {
+            _4337_Bulsaf secondWindow = new _4337_Bulsaf();
+
+            // Show the window
+            secondWindow.Show();
+        }
     }
 }

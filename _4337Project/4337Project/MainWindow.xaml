@@ -8,26 +8,27 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Grid.RowDefinitions>
-            <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
+            <RowDefinition />
+            <RowDefinition Height="27.127" />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
         </Grid.RowDefinitions>
         <Button Content="Button" HorizontalAlignment="Left" Margin="416,0,0,0" Grid.Row="5" Click="Button_Click" Height="20" VerticalAlignment="Top"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="416,0,0,7" Grid.Row="15" Click="Button_Click1" Height="20" VerticalAlignment="Bottom"/>
         <Button Content="Button"  Grid.Row="13" Click="Button_Click3" Height="20" HorizontalAlignment="Center"/>
+        <Button Content="Button"  Grid.Row="10" Click="Button_Click_4" Height="20" HorizontalAlignment="Left" Margin="535,21,0,14" Grid.RowSpan="2"/>
 
     </Grid>
 </Window>
