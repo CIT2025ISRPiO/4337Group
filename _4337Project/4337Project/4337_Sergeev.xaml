@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="_4337_Sergeev" Height="450" Width="800">
     <Grid>
-        <Label Content="Sergeev Daniil" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Label Content="Garipov Tahir" HorizontalAlignment="Center" VerticalAlignment="Center"/>
         <Label Content="19 years" HorizontalAlignment="Center" VerticalAlignment="Top" RenderTransformOrigin="0.593,2.504" Margin="0,230,0,0"/>
     </Grid>
 </Window>

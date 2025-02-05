@@ -1,26 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mrgip\\4337Group\\_4337Project\\",
+  "WorkspaceRootPath": "C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|c:\\users\\mrgip\\4337group\\_4337project\\4337project\\4337_sergeev.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|solutionrelative:4337project\\4337_sergeev.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|c:\\users\\mrgip\\4337group\\_4337project\\4337project\\4337_sharifullnanvar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|solutionrelative:4337project\\4337_sharifullnanvar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|C:\\Users\\mrgip\\4337Group\\_4337Project\\4337project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|solutionrelative:4337project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|C:\\Users\\mrgip\\4337Group\\_4337Project\\4337project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|solutionrelative:4337project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|C:\\Users\\mrgip\\4337Group\\_4337Project\\4337project\\_4337_d0h.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|c:\\users\\ex\\desktop\\study\\isrpo\\lr1\\4337groupisrpogaripov\\_4337project\\4337project\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|solutionrelative:4337project\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|c:\\users\\ex\\desktop\\study\\isrpo\\lr1\\4337groupisrpogaripov\\_4337project\\4337project\\4337_garipovtahir.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|solutionrelative:4337project\\4337_garipovtahir.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|c:\\users\\ex\\desktop\\study\\isrpo\\lr1\\4337groupisrpogaripov\\_4337project\\4337project\\4337_garipovtahir.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|solutionrelative:4337project\\4337_garipovtahir.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337project\\_4337_d0h.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|solutionrelative:4337project\\_4337_d0h.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|c:\\users\\ex\\desktop\\study\\isrpo\\lr1\\4337groupisrpogaripov\\_4337project\\4337project\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|solutionrelative:4337project\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337project\\4337_sharifullnanvar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|solutionrelative:4337project\\4337_sharifullnanvar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|c:\\users\\ex\\desktop\\study\\isrpo\\lr1\\4337groupisrpogaripov\\_4337project\\4337project\\4337_sergeev.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|solutionrelative:4337project\\4337_sergeev.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|solutionrelative:4337project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,48 +45,73 @@
       "VerticalTabListWidth": 144,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 260,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "4337_Sergeev.xaml",
-              "DocumentMoniker": "C:\\Users\\mrgip\\4337Group\\_4337Project\\4337Project\\4337_Sergeev.xaml",
-              "RelativeDocumentMoniker": "4337Project\\4337_Sergeev.xaml",
-              "ToolTip": "C:\\Users\\mrgip\\4337Group\\_4337Project\\4337Project\\4337_Sergeev.xaml*",
-              "RelativeToolTip": "4337Project\\4337_Sergeev.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-29T13:38:42.364Z",
-              "EditorCaption": ""
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "4337_SharifullnAnvar.xaml",
-              "DocumentMoniker": "C:\\Users\\mrgip\\4337Group\\_4337Project\\4337Project\\4337_SharifullnAnvar.xaml",
-              "RelativeDocumentMoniker": "4337Project\\4337_SharifullnAnvar.xaml",
-              "ToolTip": "C:\\Users\\mrgip\\4337Group\\_4337Project\\4337Project\\4337_SharifullnAnvar.xaml",
-              "RelativeToolTip": "4337Project\\4337_SharifullnAnvar.xaml",
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337Project\\App.xaml",
+              "RelativeDocumentMoniker": "4337Project\\App.xaml",
+              "ToolTip": "C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337Project\\App.xaml",
+              "RelativeToolTip": "4337Project\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-27T12:58:15.913Z",
+              "WhenOpened": "2025-02-05T23:55:03.625Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4337_GaripovTahir.xaml",
+              "DocumentMoniker": "C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337Project\\4337_GaripovTahir.xaml",
+              "RelativeDocumentMoniker": "4337Project\\4337_GaripovTahir.xaml",
+              "ToolTip": "C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337Project\\4337_GaripovTahir.xaml*",
+              "RelativeToolTip": "4337Project\\4337_GaripovTahir.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-05T23:47:48.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337Project\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "4337Project\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337Project\\MainWindow.xaml",
+              "RelativeToolTip": "4337Project\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-11T16:35:22.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "4337_GaripovTahir.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337Project\\4337_GaripovTahir.xaml.cs",
+              "RelativeDocumentMoniker": "4337Project\\4337_GaripovTahir.xaml.cs",
+              "ToolTip": "C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337Project\\4337_GaripovTahir.xaml.cs",
+              "RelativeToolTip": "4337Project\\4337_GaripovTahir.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:51:34.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "_4337_d0h.xaml",
-              "DocumentMoniker": "C:\\Users\\mrgip\\4337Group\\_4337Project\\4337Project\\_4337_d0h.xaml",
+              "DocumentMoniker": "C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337Project\\_4337_d0h.xaml",
               "RelativeDocumentMoniker": "4337Project\\_4337_d0h.xaml",
-              "ToolTip": "C:\\Users\\mrgip\\4337Group\\_4337Project\\4337Project\\_4337_d0h.xaml",
+              "ToolTip": "C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337Project\\_4337_d0h.xaml",
               "RelativeToolTip": "4337Project\\_4337_d0h.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-23T10:41:14.267Z",
@@ -78,28 +119,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\mrgip\\4337Group\\_4337Project\\4337Project\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "4337Project\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\mrgip\\4337Group\\_4337Project\\4337Project\\MainWindow.xaml*",
-              "RelativeToolTip": "4337Project\\MainWindow.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-11T16:35:22.512Z",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337Project\\App.config",
+              "RelativeDocumentMoniker": "4337Project\\App.config",
+              "ToolTip": "C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337Project\\App.config",
+              "RelativeToolTip": "4337Project\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-05T23:48:58.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "4337_SharifullnAnvar.xaml",
+              "DocumentMoniker": "C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337Project\\4337_SharifullnAnvar.xaml",
+              "RelativeDocumentMoniker": "4337Project\\4337_SharifullnAnvar.xaml",
+              "ToolTip": "C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337Project\\4337_SharifullnAnvar.xaml",
+              "RelativeToolTip": "4337Project\\4337_SharifullnAnvar.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-27T12:58:15.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "4337_Sergeev.xaml",
+              "DocumentMoniker": "C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337Project\\4337_Sergeev.xaml",
+              "RelativeDocumentMoniker": "4337Project\\4337_Sergeev.xaml",
+              "ToolTip": "C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337Project\\4337_Sergeev.xaml",
+              "RelativeToolTip": "4337Project\\4337_Sergeev.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-29T13:38:42.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\mrgip\\4337Group\\_4337Project\\4337Project\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337Project\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "4337Project\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\mrgip\\4337Group\\_4337Project\\4337Project\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "4337Project\\MainWindow.xaml.cs*",
+              "ToolTip": "C:\\Users\\EX\\Desktop\\Study\\ISRPO\\LR1\\4337GroupISRPOGaripov\\_4337Project\\4337Project\\MainWindow.xaml.cs",
+              "RelativeToolTip": "4337Project\\MainWindow.xaml.cs",
               "ViewState": "AgIAACQAAAAAAAAAAADwvy0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T16:35:22.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T16:35:22.07Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 22,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }
