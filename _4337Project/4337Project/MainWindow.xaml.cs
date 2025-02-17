@@ -54,5 +54,11 @@ namespace _4337Project
             // Show the window
             secondWindow.Show();
         }
+
+        private void Vantsan_Click(object sender, RoutedEventArgs e)
+        {
+            _4337_VantsanMilena secondwindow = new _4337_VantsanMilena();
+            secondwindow.Show();
+        }
     }
 }

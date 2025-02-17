@@ -67,6 +67,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="4337_VantsanMilena.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="_4337_d0h.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -83,6 +87,9 @@
     </Compile>
     <Compile Include="4337_SharifullnAnvar.xaml.cs">
       <DependentUpon>4337_SharifullnAnvar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="4337_VantsanMilena.xaml.cs">
+      <DependentUpon>4337_VantsanMilena.xaml</DependentUpon>
     </Compile>
     <Compile Include="_4337_d0h.xaml.cs">
       <DependentUpon>_4337_d0h.xaml</DependentUpon>

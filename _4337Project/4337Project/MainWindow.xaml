@@ -29,5 +29,6 @@
         <Button Content="Button" HorizontalAlignment="Left" Margin="416,0,0,7" Grid.Row="15" Click="Button_Click1" Height="20" VerticalAlignment="Bottom"/>
         <Button Content="Button"  Grid.Row="13" Click="Button_Click3" Height="20" HorizontalAlignment="Center"/>
         <Button Content="Fursova 14" Click="Button_Click_1" Grid.Row="11" HorizontalAlignment="Center" Height="20" VerticalAlignment="Center"/>
+        <Button x:Name="Vantsan" Click="Vantsan_Click" Content="Vantsan" Grid.Row="3" HorizontalAlignment="Center" Height="20" VerticalAlignment="Center"/>
     </Grid>
 </Window>
