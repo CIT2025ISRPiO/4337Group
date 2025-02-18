@@ -49,7 +49,7 @@ namespace _4337Project
 
         private void Button_Click_4(object sender, RoutedEventArgs e)
         {
-            _4337_Bulsaf secondWindow = new _4337_Bulsaf();
+            Window secondWindow = new _4337_BulatSafiullin();
 
             // Show the window
             secondWindow.Show();
