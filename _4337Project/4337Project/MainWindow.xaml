@@ -25,7 +25,7 @@
             <RowDefinition Height="*" />
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="416,0,0,0" Grid.Row="5" Click="Button_Click" Height="20" VerticalAlignment="Top"/>
+        <Button Content="d0h" Width="228" HorizontalAlignment="Center" Grid.Row="5" Click="Button_Click" Height="20" VerticalAlignment="Top"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="416,0,0,7" Grid.Row="15" Click="Button_Click1" Height="20" VerticalAlignment="Bottom"/>
         <Button Content="Button"  Grid.Row="13" Click="Button_Click3" Height="20" HorizontalAlignment="Center"/>
         <Button Content="Fursova 14" Click="Button_Click_1" Grid.Row="11" HorizontalAlignment="Center" Height="20" VerticalAlignment="Center"/>
