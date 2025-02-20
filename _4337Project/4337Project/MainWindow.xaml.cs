@@ -46,5 +46,13 @@ namespace _4337Project
             // Show the window
             secondWindow.Show();
         }
+
+        private void _4337_GaripovTahir_Click(object sender, RoutedEventArgs e)
+        {
+            _4337_GaripovTahir secondWindow = new _4337_GaripovTahir();
+
+            // Show the window
+            secondWindow.Show();
+        }
     }
 }

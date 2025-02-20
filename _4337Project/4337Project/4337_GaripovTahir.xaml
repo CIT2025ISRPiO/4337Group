@@ -7,7 +7,18 @@
         mc:Ignorable="d"
         Title="_4337_GaripovTahir" Height="450" Width="800">
     <Grid>
-        <Label x:Name="_1text" Content="Garipov Tahir" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="366,191,0,0"/>
-        <Label x:Name="_2text" Content="18 years" HorizontalAlignment="Center" VerticalAlignment="Top" RenderTransformOrigin="0.593,2.504" Margin="0,230,0,0"/>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="_1text" Content="Garipov Tahir" Grid.ColumnSpan="2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="366,191,0,0"/>
+        <Label x:Name="_2text" Content="18 years"  Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Top" RenderTransformOrigin="0.593,2.504" Margin="0,230,0,0"/>
+        <Button x:Name="ImportButton" Content="Импорт данных" Grid.Column="0" Grid.Row="1" Margin="0, 70,0,0" Click="Import_Click"/>
+        <Button Content="Экспорт в Excel" Grid.Column="1" Grid.Row="1" Margin="0, 70,0,0" Click="Export_Click"/>
+
     </Grid>
 </Window>
