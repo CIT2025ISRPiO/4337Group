@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|solutionrelative:4337project\\4337_baryshev.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|C:\\Users\\windo\\Desktop\\ISRPO_4\\4337Group\\_4337Project\\4337project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|solutionrelative:4337project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|C:\\Users\\windo\\Desktop\\ISRPO_4\\4337Group\\_4337Project\\4337project\\4337_baryshev.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|solutionrelative:4337project\\4337_baryshev.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|C:\\Users\\windo\\Desktop\\ISRPO_4\\4337Group\\_4337Project\\4337project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|solutionrelative:4337project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|C:\\Users\\windo\\Desktop\\ISRPO_4\\4337Group\\_4337Project\\4337project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1D8D39BA-5BE6-4FF7-9C11-935E2BB429AE}|4337Project\\4337Project.csproj|solutionrelative:4337project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,38 +42,40 @@
               "Title": "4337_Baryshev.xaml.cs",
               "DocumentMoniker": "C:\\Users\\windo\\Desktop\\ISRPO_4\\4337Group\\_4337Project\\4337Project\\4337_Baryshev.xaml.cs",
               "RelativeDocumentMoniker": "4337Project\\4337_Baryshev.xaml.cs",
-              "ToolTip": "C:\\Users\\windo\\Desktop\\ISRPO_4\\4337Group\\_4337Project\\4337Project\\4337_Baryshev.xaml.cs",
-              "RelativeToolTip": "4337Project\\4337_Baryshev.xaml.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwBoAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\windo\\Desktop\\ISRPO_4\\4337Group\\_4337Project\\4337Project\\4337_Baryshev.xaml.cs*",
+              "RelativeToolTip": "4337Project\\4337_Baryshev.xaml.cs*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwBkBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T06:21:12.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "4337_Baryshev.xaml",
               "DocumentMoniker": "C:\\Users\\windo\\Desktop\\ISRPO_4\\4337Group\\_4337Project\\4337Project\\4337_Baryshev.xaml",
               "RelativeDocumentMoniker": "4337Project\\4337_Baryshev.xaml",
               "ToolTip": "C:\\Users\\windo\\Desktop\\ISRPO_4\\4337Group\\_4337Project\\4337Project\\4337_Baryshev.xaml",
               "RelativeToolTip": "4337Project\\4337_Baryshev.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-06T02:35:38.873Z"
+              "WhenOpened": "2025-02-06T02:35:38.873Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\windo\\Desktop\\ISRPO_4\\4337Group\\_4337Project\\4337Project\\MainWindow.xaml",
               "RelativeDocumentMoniker": "4337Project\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\windo\\Desktop\\ISRPO_4\\4337Group\\_4337Project\\4337Project\\MainWindow.xaml",
               "RelativeToolTip": "4337Project\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-11T16:35:22.512Z"
+              "WhenOpened": "2025-01-11T16:35:22.512Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\windo\\Desktop\\ISRPO_4\\4337Group\\_4337Project\\4337Project\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "4337Project\\MainWindow.xaml.cs",
