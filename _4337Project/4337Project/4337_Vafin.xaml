@@ -6,8 +6,15 @@
         xmlns:local="clr-namespace:_4337Project"
         mc:Ignorable="d"
         Title="_4337_Vafin" Height="450" Width="800">
-    <Grid>
-        <Label Content="Vafin Samir" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-        <Label Content="19 years" HorizontalAlignment="Center" VerticalAlignment="Top" RenderTransformOrigin="0.593,2.504" Margin="0,230,0,0"/>
-    </Grid>
+    <StackPanel Width="500">
+
+        <Label Content="Vafin Samir" HorizontalAlignment="Center" Margin="10"/>
+        <Label Content="19 лет" HorizontalAlignment="Center" Margin="10"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Name="Import" Click="Import_Click" Content="Импорт данных" Width="100" Margin="10"/>
+        </StackPanel>
+        <StackPanel>
+            <Button Name="Export" Click="Export_Click" Content="Экспорт в Excel" Width="100" Margin="10"/>
+        </StackPanel>
+    </StackPanel>
 </Window>
