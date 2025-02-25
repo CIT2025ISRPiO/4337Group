@@ -25,6 +25,7 @@ namespace _4337Project
             InitializeComponent();
         }
 
+        
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             _4337_d0h secondWindow = new _4337_d0h();
@@ -54,5 +55,12 @@ namespace _4337Project
             // Show the window
             secondWindow.Show();
         }
+        private void ButtonVafin_Click(object sender, RoutedEventArgs e)
+        {
+            _4337_Vafin secondWindow = new _4337_Vafin();
+
+            secondWindow.Show();
+        }
+
     }
 }
